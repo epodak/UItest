@@ -1,0 +1,13 @@
+D:\codes\vs2010\UItest\UItest\bin\Debug\UItest.exe.config
+D:\codes\vs2010\UItest\UItest\bin\Debug\UItest.exe
+D:\codes\vs2010\UItest\UItest\bin\Debug\UItest.pdb
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.csprojResolveAssemblyReference.cache
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.Form1.resources
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.Properties.Resources.resources
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.csproj.GenerateResource.Cache
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.exe
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.pdb
+D:\codes\vs2010\UItest\UItest\obj\Debug\Interop.OPCAutomation.dll
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.csproj.ResolveComReference.cache
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.Form2.resources
+D:\codes\vs2010\UItest\UItest\obj\Debug\UItest.Form3.resources

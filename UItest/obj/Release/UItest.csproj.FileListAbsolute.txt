@@ -1,0 +1,19 @@
+D:\codes\vs2010\UItest\UItest\bin\Release\UItest.exe.config
+D:\codes\vs2010\UItest\UItest\obj\Release\Interop.OPCAutomation.dll
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.csproj.ResolveComReference.cache
+D:\codes\vs2010\UItest\UItest\bin\Release\UItest.exe
+D:\codes\vs2010\UItest\UItest\bin\Release\UItest.pdb
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.csprojResolveAssemblyReference.cache
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.Form1.resources
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.Properties.Resources.resources
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.csproj.GenerateResource.Cache
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.exe
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.pdb
+D:\codes\vs2010\UItest\UItest\obj\Release\UItest.Form3.resources
+D:\codes\vs2010\UItest 1227\UItest\bin\Release\UItest.exe.config
+D:\codes\vs2010\UItest 1227\UItest\obj\Release\Interop.OPCAutomation.dll
+D:\codes\vs2010\UItest 1227\UItest\obj\Release\UItest.csproj.ResolveComReference.cache
+D:\codes\vs2010\UItest 1227\UItest\obj\Release\UItest.exe
+D:\codes\vs2010\UItest 1227\UItest\obj\Release\UItest.pdb
+D:\codes\vs2010\UItest\UItest\bin\Release\CSkin.dll
+D:\codes\vs2010\UItest\UItest\bin\Release\CSkin.xml
